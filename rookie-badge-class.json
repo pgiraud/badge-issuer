@@ -1,0 +1,7 @@
+{
+    "name": "Rookie Badge Issuer",
+    "description": "Issues great new Open Badges to self.",
+    "image": "http://pgiraud.github.io/badge-issuer/rookie-badge-issuer.png",
+    "criteria": "http://pgiraud.github.io/badge-issuer/rookie-badge-criteria.html",
+    "issuer": "http://pgiraud.github.io/badge-issuer/badge-issuer.json"
+}
